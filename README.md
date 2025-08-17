@@ -151,7 +151,7 @@ GROQ_MODEL_OPTIONS = llama3-8b-8192, llama3-70b-8192, gemma2-9b-it
 ### Project Structure
 
 - **Modular Design**: Each component has a specific responsibility
-- **Configuration-Driven**: Easy to modify behavior without code changes
+- **Configuration-Driven**: Easy to modify behaviour without code changes
 - **Type Safety**: Uses TypedDict for state management
 - **Error Handling**: Comprehensive exception handling throughout
 
