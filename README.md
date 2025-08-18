@@ -129,7 +129,7 @@ GROQ_MODEL_OPTIONS = llama3-8b-8192, llama3-70b-8192, gemma2-9b-it
 ### Adding New Use Cases
 
 1. Create new node classes in `src/langgraphagenticai/nodes/`
-2. Add graph building logic in `graph_builder.py`
+2. Add graph-building logic in `graph_builder.py`
 3. Update the configuration file
 4. Implement display logic in `display_result.py`
 
